@@ -7,10 +7,19 @@ RÉGUA junta gestão de barbearia com um diferencial que ninguém tem: um simula
 ## O que faz
 
 - Simulador de corte e cor (diferencial)
-- Agenda e clientes
-- Financeiro da barbearia
+- Agenda + confirmação por WhatsApp (anti no-show)
+- Agendamento online: cada barbearia tem um link onde o cliente marca sozinho
+- Clientes (ficha + histórico) e financeiro
+- Equipe + comissão por barbeiro (ou por serviço)
+- Clube de assinatura (receita recorrente)
 - Alinha expectativa antes do corte
 - Assinatura simples pro dono
+
+## Como está ficando
+
+| Landing (mobile) | Landing (desktop) | Agendamento online |
+|:---:|:---:|:---:|
+| <img src="img/landing-mobile.png" width="220"> | <img src="img/landing-desktop.png" width="320"> | <img src="img/agendamento.png" width="220"> |
 
 ## Status
 
