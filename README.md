@@ -8,7 +8,7 @@
 
 _Na régua._
 
-![status](https://img.shields.io/badge/status-BETA-C8892A?style=for-the-badge)
+![status](https://img.shields.io/badge/status-BETA-c8892a?style=for-the-badge)
 ![plataforma](https://img.shields.io/badge/plataforma-Web%20%7C%20Mobile-1f1f1f?style=for-the-badge)
 
 [![Conhecer o RÉGUA](https://img.shields.io/badge/Conhecer%20o%20R%C3%89GUA-abrir-C8892A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://regua.web.app)
