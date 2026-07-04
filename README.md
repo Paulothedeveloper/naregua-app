@@ -1,36 +1,41 @@
-# RÉGUA — SaaS de barbearia com simulação
+<div align="center">
 
-![status](https://img.shields.io/badge/status-BETA-yellow) &nbsp; por **Paulo Adriel** · [Paulocodex](https://paulocodex.com)
+# RÉGUA
 
-RÉGUA junta gestão de barbearia com um diferencial que ninguém tem: um simulador de corte e cor que alinha a expectativa do cliente ANTES da tesoura. Agenda, clientes, financeiro e a simulação num app só.
+**Gestão de barbearia + simulador de corte e cor que alinha a expectativa antes da tesoura.**
 
-## O que faz
+![status](https://img.shields.io/badge/status-BETA-C8892A?style=for-the-badge) &nbsp; ![](https://img.shields.io/badge/-Web%2520%7C%2520Mobile-1f1f1f?style=for-the-badge)
 
-- Simulador de corte e cor (diferencial)
-- Agenda + confirmação por WhatsApp (anti no-show)
-- Agendamento online: cada barbearia tem um link onde o cliente marca sozinho
-- Clientes (ficha + histórico) e financeiro
-- Equipe + comissão por barbeiro (ou por serviço)
-- Clube de assinatura (receita recorrente)
-- Alinha expectativa antes do corte
-- Assinatura simples pro dono
+[![Conhecer](https://img.shields.io/badge/Conhecer-abrir-C8892A?style=for-the-badge)](https://regua.web.app)
 
-## Como está ficando
+</div>
 
-| Landing (mobile) | Landing (desktop) | Agendamento online |
-|:---:|:---:|:---:|
-| <img src="img/landing-mobile.png" width="220"> | <img src="img/landing-desktop.png" width="320"> | <img src="img/agendamento.png" width="220"> |
-
-## Status
-
-**Em beta** — funcional, ainda em ajustes e revisão de lojas.
-
-## Saiba mais
-
-- **Página do projeto:** https://paulocodex.com/p/regua
-- **Acessar / comprar:** https://regua.paulocodex.com
 
 ---
-_Este repositório é apenas a **apresentação pública** do projeto. O código-fonte é fechado e não é distribuído aqui._
 
-Contato: paulobatista19988@proton.me
+
+## ✨ O que faz
+
+- Simulador de corte e cor (diferencial)
+- Agenda e clientes
+- Financeiro da barbearia
+- Assinatura simples pro dono
+
+## 🔗 Saiba mais
+
+- **Página do projeto:** https://paulocodex.com/p/regua
+- **Conhecer:** https://regua.web.app
+- **regua.web.app:** https://regua.web.app
+
+## 👤 Sobre o dev
+
+**Paulo Adriel** — produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele: código + identidade, motion e material de lançamento, do zero ao ar em 30 dias. Estúdio [Paulocodex](https://paulocodex.com).
+
+---
+<div align="center">
+
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
+
+</div>
